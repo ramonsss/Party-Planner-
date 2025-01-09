@@ -16,9 +16,6 @@ Caso deseje baixar e executar este projeto, é importante que sua máquina atend
 
 - **Mongoose**  
   É necessário instalar o Mongoose, uma biblioteca para modelar objetos MongoDB em um ambiente Node.js.
-# Descrição do Projeto  
-
-Este projeto foi desenvolvido com o objetivo de aprimorar conhecimentos em **desenvolvimento fullstack**, utilizando tanto tecnologias de front-end quanto de back-end. A aplicação foi projetada para ser uma experiência prática e enriquecedora, voltada para o aprendizado pessoal e profissional.  
 
 ----------------------------------------------------------
 
