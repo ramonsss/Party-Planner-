@@ -20,22 +20,7 @@ Caso deseje baixar e executar este projeto, é importante que sua máquina atend
 
 Este projeto foi desenvolvido com o objetivo de aprimorar conhecimentos em **desenvolvimento fullstack**, utilizando tanto tecnologias de front-end quanto de back-end. A aplicação foi projetada para ser uma experiência prática e enriquecedora, voltada para o aprendizado pessoal e profissional.  
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### Pré-requisitos  
-
-Caso deseje baixar e executar este projeto, é importante que sua máquina atenda aos seguintes requisitos:  
-
-- **Node.js e npm**  
-  Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados. Estas ferramentas são fundamentais para gerenciar as dependências do projeto e rodar a aplicação localmente.  
-
-- **Banco de Dados (MongoDB)**  
-  A aplicação utiliza o MongoDB como banco de dados. Certifique-se de que o MongoDB esteja instalado e configurado em sua máquina ou que você tenha acesso a uma instância do MongoDB na nuvem.  
-
-- **Mongoose**  
-  É necessário instalar o Mongoose, uma biblioteca para modelar objetos MongoDB em um ambiente Node.js. 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------
 
 - **Principais Dependências Utilizadas**
 Este projeto utiliza diversas dependências que foram cuidadosamente escolhidas para otimizar a experiência do usuário e a eficiência do desenvolvimento. Entre elas:
@@ -48,3 +33,9 @@ Utilizado para realizar requisições HTTP de forma simples e eficiente, conecta
 
 React Toastify
 Adiciona notificações elegantes e funcionais, aprimorando a interação do usuário com mensagens de sucesso, erro ou alerta.
+
+Express
+Framework minimalista e poderoso para construir a API do back-end de maneira ágil e organizada.
+
+Cors e Body-Parser
+Dependências essenciais para lidar com a comunicação entre o front-end e o back-end.
